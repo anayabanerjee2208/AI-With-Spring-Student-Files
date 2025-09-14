@@ -6,4 +6,4 @@ spring:
     retry:
       max-attempts: 1           # Maximum number of retry attempts.
     openai:
-      api-key: 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 # OpenAI API key, set in environment variables.
+      api-key: key
